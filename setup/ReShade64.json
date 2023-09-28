@@ -8,7 +8,7 @@
 		"implementation_version": "1",
 		"description": "crosire's ReShade post-processing injector for 64-bit",
 		"device_extensions": [
-			{
+			{ 
 				"name": "VK_EXT_tooling_info",
 				"spec_version": "1",
 				"entrypoints": [ "vkGetPhysicalDeviceToolPropertiesEXT" ]
